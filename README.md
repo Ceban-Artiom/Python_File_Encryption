@@ -2,6 +2,7 @@
 This script demonstrates how a basic ransomware/malware encryption tool works. DO NOT USE THIS CODE MALICIOUSLY. Unauthorized file encryption on systems you do not own is illegal and unethical. This repository is for cybersecurity education only to help understand attack methods and improve defenses.
 
 **Description**
+
 This Python script simulates a ransomware-like file encryption/decryption tool using the Fernet symmetric encryption scheme from the cryptography library.
 The tool:
 - Encrypts all files in a directory (excluding itself)
