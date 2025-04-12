@@ -8,6 +8,7 @@ The tool:
 - Requires a secret passphrase for decryption
 - Demonstrates how attackers lock files and demand a key for recovery
 
+
 **How It Works**
 
 *Encryption Process (Malware Simulation)*
