@@ -4,6 +4,7 @@ This script demonstrates how a basic ransomware/malware encryption tool works. D
 **Description**
 
 This Python script simulates a ransomware-like file encryption/decryption tool using the Fernet symmetric encryption scheme from the cryptography library.
+
 The tool:
 - Encrypts all files in a directory (excluding itself)
 - Requires a secret passphrase for decryption
